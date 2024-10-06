@@ -1,0 +1,63 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+// Transdimendional Tea Party | 13 October from 3 to 23
+// Don't forget the magic of numbers
+// May the Alien be with you!
+// All rights reserved xname (C) 2024 - Eleonora Maria Irene Oreggia - https://xname.cc 
+// The author of this code is not responsible for any hallucination emerging from , or improper use of, their code.
+// The code reported below can be executed within  Hydra by Olivia Jack: https://hydra.ojack.xyz/
+// This repo follows the loss of many irrepetible sketches that were eaten by the Net at 4am while coding in bed :|
+
+
+
+
+
+osc(23,2,3).repeat(3,2).rotate(2,3).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(1,3).out()
+osc(23,2,3).repeat(3,2).rotate(2,3).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(1,3).kaleid(2,3).out()
+osc(13,1,3).repeat(3,2).rotate(2,3).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).out()
+osc(13,1,3).repeat(1,3).rotate(3,1).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).kaleid(2,3).out()
+osc(13,1,3).repeat(1,3).rotate(3,1).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).kaleid(12,3).out()
+osc(13,1,13).repeat(1,3).rotate(3,1).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).kaleid(12,3).out()
+osc(13,1,3).repeat(1,3).rotate(3,1).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).kaleid(2,3).out()
+osc(13,1,3).repeat(1,3).rotate(3,1).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).kaleid(12,3).out()
+osc(23,3,13).repeat(1,3).rotate(3,1).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).kaleid(12,3).out()
+osc(23,3,23).repeat(1,3).rotate(3,1).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).kaleid(12,3).out()
+osc(23,3,13).repeat(1,3).rotate(3,1).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).kaleid(12,3).out()
+osc(33,3,23).repeat(1,3).rotate(3,1).kaleid(2,3).repeat(1,3).rotate(1,3).kaleid(2,3).kaleid(12,3).out()
+
+osc(13,12,0.1).kaleid(1,23).repeat(12,3).rotate(12,3).kaleid(1,23).repeat(1,23).rotate(1,13).kaleid(1,23).kaleid(1,3).kaleid(1,23).out()
+
+osc(3,12,0.1).kaleid(1,23).repeat(1,3).rotate(12,3).kaleid(1,23).repeat(1,23).rotate(1,13).kaleid(1,23).kaleid(1,3).kaleid(1,23).out()
+
+osc(3,3,0.1).kaleid(1,23).repeat(1,3).rotate(12,3).kaleid(1,23).repeat(1,23).rotate(1,13).kaleid(1,23).kaleid(1,3).out()
+
+osc(13,23,0.01).kaleid(1,23).repeat(1,3).rotate(12,3).kaleid(1,23).repeat(1,23).rotate(1,3).kaleid(1,23).kaleid(1,3).out()
+
+osc(0.3,23,0.01).kaleid(1,23).repeat(1,3).rotate(12,3).kaleid(1,23).repeat(1,23).rotate(1,3).kaleid(1,23).kaleid(1,3).out()
+
+osc(0.3,23,0.01).kaleid(1,3).repeat(13,3).rotate(12,3).kaleid(1,23).repeat(1,23).rotate(1,3).kaleid(1,23).kaleid(1,3).out()
+
+osc(0.3,23,0.01).kaleid(1,3).repeat(3,3).rotate(1,3).kaleid(1,3).repeat(1,3).rotate(1,3).kaleid(1,3).kaleid(1,3).out()
+
+osc(23,23,0.01).kaleid(1,3).repeat(3,3).rotate(1,3).kaleid(1,3).repeat(1,3).rotate(1,3).kaleid(1,3).kaleid(1,3).out()
+
+osc(23,23,0.01).kaleid(23,23).repeat(3,3).rotate(1,3).kaleid(1,3).repeat(1,3).rotate(1,3).kaleid(1,3).kaleid(1,3).out()
+
+osc(23,23,0.01).kaleid(23,23).repeat(2,23).rotate(1,3).kaleid(1,3).repeat(1,3).rotate(1,3).kaleid(1,3).kaleid(1,3).out()
+
+osc(23,0.0000023).kaleid(2,3).repeat(2,3).rotate(2,3).kaleid(2,3).repeat(2,3).rotate(2,3).kaleid(2,3).kaleid(2,3).out()
+
+osc(23,3,0.0000023).kaleid(23,3).repeat(2,3).rotate(2,3).kaleid(2,3).repeat(2,3).rotate(2,3).kaleid(2,3).kaleid(2,3).out()
+
+osc(23,3,0.0000023).kaleid(23,23).repeat(2,3).rotate(2,3).kaleid(2,3).repeat(2,3).rotate(2,3).kaleid(2,3).kaleid(2,3).out()
+
+osc(23,3,0.0000023).kaleid(2,0.3).repeat(2.23,2.3).rotate(0.2,0.3).kaleid(2,3).repeat(2,3).rotate(2,3).kaleid(2,3).kaleid(2,3).out()
+
+osc(23,3,0.0000023).kaleid(2,0.3).repeat(2.23,2.3).rotate(0.2,0.3).kaleid(0.2,0.3).repeat(2,3).rotate(2,3).kaleid(2,3).kaleid(2,3).colorama(0.0000023).out()
+
+osc(23,3,0.0000023).kaleid(2,0.3).repeat(2.23,2.3).rotate(0.2,0.3).kaleid(0.2,0.3).repeat(2,3).rotate(2,3).kaleid(0.23,0.23).kaleid(0.23,0.23).colorama(0.0000023).out()
+
+
+
+
