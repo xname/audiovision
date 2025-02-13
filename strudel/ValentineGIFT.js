@@ -33,7 +33,7 @@ pattern()
 
 
 pattern()
-	.kaleid(kaleid H "<2 2 3")
+	.kaleid(kaleid(H("<2 2 3>"))
    	.modulate(noise(0.23),()=>a.fft[0]*23.23)
 	.rotate(()=>a.fft[5]*0.2,()=>a.fft[2]*0.3)
 	.scale(2,0.3)
